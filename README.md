@@ -1,2 +1,5 @@
-# DROM
-Implementation of the work presented in the paper: DROM: Multi-task Robotic Manipulation via Diffusion Models
+# DROM: Multi-task Robotic Manipulation via Diffusion Models
+
+Paper submitted to ICRA 2025.
+
+The code will be available after acceptance confirmation.
